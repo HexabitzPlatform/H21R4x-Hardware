@@ -1,0 +1,24 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [H21R4.PrjPcb]
+   Generated File[H21R4_Copper_Signal_Top.gbr]
+   Generated File[H21R4_Copper_Signal_Bot.gbr]
+   Generated File[H21R4_Pads_Bot.gbr]
+   Generated File[H21R4_Pads_Top.gbr]
+   Generated File[H21R4_Legend_Top.gbr]
+   Generated File[H21R4_Legend_Bot.gbr]
+   Generated File[H21R4_Soldermask_Top.gbr]
+   Generated File[H21R4_Soldermask_Bot.gbr]
+   Generated File[H21R4_Paste_Top.gbr]
+   Generated File[H21R4_Paste_Bot.gbr]
+   Generated File[H21R4_Profile.gbr]
+   Generated File[H21R4_NPTH_Drill.gbr]
+   Generated File[H21R4_PTH_Drill.gbr]
+   Generated File[H21R4.EXTREP]
+   Generated File[H21R4.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 12:58:12 PM On 12/2/2025
